@@ -1,0 +1,19 @@
+Problem 1 – Seat Reservation
+------------------------------------------
+EN (English):
+A movie theater has N seats numbered from 1 to N. Construct a seat reservation system that performs one of the following K operations:
+- If seat[i] == 0, reserve the smallest unreserved seat and return its number.
+- If seat[i] > 0, cancel the reservation for seat[i].
+
+Return an array containing the reserved seat numbers.
+
+Notes:
+- A reservation always finds an available seat.
+- A cancellation always applies to an already reserved seat.
+
+PT (Português):
+Um cinema possui N assentos numerados de 1 até N. Construa um sistema de reserva de assentos que execute uma das seguintes operações K vezes:
+- Se seat[i] == 0, reserve o menor assento ainda não reservado e retorne seu número.
+- Se seat[i] > 0, cancele a reserva do assento seat[i].
+
+O resultado deve ser um array com os números dos assentos reservados.

@@ -1,0 +1,11 @@
+Problem 2 – Comment Section Filter
+------------------------------------------
+EN (English):
+Given N comments and a keyword S, count how many comments contain the keyword.
+- The keyword search is case-insensitive.
+- Words are separated by underscore ('_').
+
+PT (Português):
+Dado N comentários e uma palavra-chave S, conte quantos comentários contêm essa palavra.
+- A busca não diferencia letras maiúsculas de minúsculas.
+- As palavras nos comentários são separadas por underline ('_').

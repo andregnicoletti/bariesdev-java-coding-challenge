@@ -1,0 +1,13 @@
+Problem 3 – Best Subsequence
+------------------------------------------
+EN (English):
+You are given an array `a` of size `n` and an integer `k`. Find the subsequence of length `k` that has the minimum "special value" defined as:
+  ∑(i = 2 to k) |pi − pi−1|
+
+If it is not possible to form a subsequence of length k, return 0.
+
+PT (Português):
+Você recebe um array `a` de tamanho `n` e um inteiro `k`. Encontre a subsequência de tamanho `k` com o menor "valor especial", definido como:
+  ∑(i = 2 até k) |pi − pi−1|
+
+Se não for possível formar uma subsequência de tamanho k, retorne 0.
